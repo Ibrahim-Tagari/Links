@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260797944428",
+    "project_id": "links-api-c1554",
+    "storage_bucket": "links-api-c1554.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260797944428:android:3386bf94b15d8286f9fe49",
+        "android_client_info": {
+          "package_name": "com.example.prog_poe_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQdZ1t1nm_igT6wqBj-fdXRTDxJXfmC6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

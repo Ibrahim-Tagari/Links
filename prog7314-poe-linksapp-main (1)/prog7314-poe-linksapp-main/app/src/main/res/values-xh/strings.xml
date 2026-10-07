@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">prog_poe_final</string>
+    <string name="settings">Izicwangciso</string>
+    <string name="bio">Ubomi</string>
+    <string name="edit_profile">Hlengahlengisa Iprofayile Yakho</string>
+    <string name="logout">Phuma</string>
+    <string name="sign_into_your_account">sayina kwiakhawunti yakho</string>
+    <string name="email">Sayina Kwiakhawunti Yakho</string>
+    <string name="password">inombolo yokuvula</string>
+    <string name="sign_in">ngena</string>
+    <string name="don_t_have_an_account_sign_up">awunayo iakhawunti? bhalisa</string>
+    <string name="create_a_new_account">yenza iakhawunti entsha</string>
+    <string name="name">igama</string>
+    <string name="sign_up">bhalisa</string>
+    <string name="already_have_an_account_sign_in">sele unayo iakhawunti? Ngena</string>
+    <string name="chats">Iincoko</string>
+    <string name="notifications">Izaziso</string>
+    <string name="sent_you_a_message">ndikuthumele umyalezo</string>
+    <string name="dark_mode">Imo Emnyama</string>
+    <string name="enter_name">Faka Igama</string>
+    <string name="enter_bio">Ngena Kwi-Bio</string>
+    <string name="cancel">Rhoxisa</string>
+    <string name="save">Gcina</string>
+</resources>

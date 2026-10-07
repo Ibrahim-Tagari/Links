@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">prog_poe_final</string>
+    <string name="settings">Instellings</string>
+    <string name="bio">Ubomi</string>
+    <string name="edit_profile">Wysig profiel</string>
+    <string name="logout">Teken uit</string>
+    <string name="sign_into_your_account">teken by jou rekening aan</string>
+    <string name="email">e-pos</string>
+    <string name="password">wagwoord</string>
+    <string name="sign_in">teken aan</string>
+    <string name="don_t_have_an_account_sign_up">Het jy nie n rekening nie? Registreer</string>
+    <string name="create_a_new_account">skep n nuwe rekening</string>
+    <string name="name">naam</string>
+    <string name="sign_up">teken in</string>
+    <string name="already_have_an_account_sign_in">het jy reeds n rekening? Meld aan</string>
+    <string name="chats">Gesels</string>
+    <string name="notifications">Kennisgewings</string>
+    <string name="sent_you_a_message">het vir jou n boodskap gestuur</string>
+    <string name="dark_mode">Donker Modus</string>
+    <string name="enter_name">Voer Naam in</string>
+    <string name="enter_bio">Voer Bio in</string>
+    <string name="cancel">Kanselleer</string>
+    <string name="save">Red</string>
+</resources>

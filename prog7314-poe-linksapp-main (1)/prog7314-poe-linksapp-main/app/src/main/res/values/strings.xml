@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">prog_poe_final</string>
+    <string name="settings">Settings</string>
+    <string name="bio">Bio</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="logout">Logout</string>
+    <string name="sign_into_your_account">sign into your account</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="sign_in">sign in</string>
+    <string name="don_t_have_an_account_sign_up">don\'t have an account? sign up</string>
+    <string name="create_a_new_account">create a new account</string>
+    <string name="name">name</string>
+    <string name="sign_up">sign up</string>
+    <string name="already_have_an_account_sign_in">already have an account? sign in</string>
+    <string name="chats">Chats</string>
+    <string name="notifications">Notifications</string>
+    <string name="sent_you_a_message">sent you a message</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_bio">Enter bio</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+</resources>
